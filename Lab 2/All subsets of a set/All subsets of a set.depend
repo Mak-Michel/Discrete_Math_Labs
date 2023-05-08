@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1667675273 source:d:\codeforces\all subsets of a set\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cmath>
+	<vector>
+
+1667684666 source:d:\codeforces\discrete labs\all subsets of a set\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cmath>
+	<vector>
+
